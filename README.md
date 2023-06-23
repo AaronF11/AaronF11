@@ -14,7 +14,6 @@ I am a student in Puerto Vallarta from the University of Guadalajara, and a pers
 - 🎙️ [Virtual-Assistan](https://github.com/AaronF11/Virtual-Assistan)
 - 🔊 [Text-to-speech](https://github.com/AaronF11/Text-to-Speech)
 - 📽️ [Biblioteca-de-Peliculas](https://github.com/AaronF11/Biblioteca-de-Peliculas)
-- 🎬 [Biblioteca-de-Peliculas 2.0](https://github.com/AaronF11/Biblioteca-de-pel-culas-2.0)
 - 🧮 [Calculadora-de-ecuaciones-diferenciales](https://github.com/AaronF11/Calculadora-de-ecuaciones-diferenciales)
 - 🤖 [ChatBot-calendar](https://github.com/AaronF11/ChatBot-Calendar)
 
