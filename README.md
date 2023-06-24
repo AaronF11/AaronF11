@@ -11,8 +11,6 @@ I am a student in Puerto Vallarta from the University of Guadalajara, and a pers
 - HTML5 & CSS3
 
 ## ⌨️ Projects
-- 🎙️ [Virtual-Assistan](https://github.com/AaronF11/Virtual-Assistan)
-- 🔊 [Text-to-speech](https://github.com/AaronF11/Text-to-Speech)
 - 📽️ [Biblioteca-de-Peliculas](https://github.com/AaronF11/Biblioteca-de-Peliculas)
 - 🧮 [Calculadora-de-ecuaciones-diferenciales](https://github.com/AaronF11/Calculadora-de-ecuaciones-diferenciales)
 - 🤖 [ChatBot-calendar](https://github.com/AaronF11/ChatBot-Calendar)
