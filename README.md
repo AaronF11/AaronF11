@@ -16,16 +16,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://twitter.com/aarón flores pasos" target="blank"><img align="center"
+    <a href="https://twitter.com/AARONFLOERSPAS1" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
             alt="aarón flores pasos" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/aarón flores pasos" target="blank"><img align="center"
+    <a href="https://www.linkedin.com/in/aarón-flores-pasos-dev/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="aarón flores pasos" height="30" width="40" /></a>
-    <a href="https://fb.com/aarón flores pasos" target="blank"><img align="center"
+    <a href="https://www.facebook.com/profile.php?id=100009552543394&locale=es_LA" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
             alt="aarón flores pasos" height="30" width="40" /></a>
-    <a href="https://instagram.com/aarón flores pasos" target="blank"><img align="center"
+    <a href="https://www.instagram.com/aaronflorespasos/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="aarón flores pasos" height="30" width="40" /></a>
 </p>
@@ -48,8 +48,7 @@
 <h3 align="left">Mobile App Development:</h3>
 <p align="left">
   <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40" /> </a>
-  <!-- Add Flutter and MAUI if applicable -->
-  <img src="https://saigontechnology.com/assets/media/image6_2.webp" alt=".NET MAUI" width="40" height="40"/>
+  <a href="https://learn.microsoft.com/en-us/dotnet/maui/?view=net-maui-8.0"><img src="https://saigontechnology.com/assets/media/image6_2.webp" alt=".NET MAUI" width="40" height="40"/></a>
 </p>
 
 <h3 align="left">Database:</h3>
@@ -68,7 +67,7 @@
 <p align="left">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/visual-studio-code7642.jpg" alt="VS Code" width="50" height="40" /> </a>
-  <img src="https://seeklogo.com/images/V/visual-studio-icon-2022-logo-8E86B4B761-seeklogo.com.png" alt="Visual Studio" width="40" height="40" />
+  <a href="https://visualstudio.microsoft.com/es/vs/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/V/visual-studio-icon-2022-logo-8E86B4B761-seeklogo.com.png" alt="Visual Studio" width="40" height="40" /></a>
   <!-- Add Android Studio if applicable -->
 </p>
 
